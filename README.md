@@ -1,3 +1,4 @@
-# simple text editor 
-# desktop application
+#simple text editor 
+#desktop application
 #using java 
+#made by me ☺ 
